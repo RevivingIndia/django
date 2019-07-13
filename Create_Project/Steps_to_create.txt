@@ -1,0 +1,3 @@
+1. Go to the command Line
+2. Type Create prject Command : django-admin startproject mysite
+3. Project Name : mysite
